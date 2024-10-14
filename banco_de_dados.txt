@@ -1,22 +1,22 @@
 false
-true
 false
 false
 false
 false
 false
 false
-{"Seg": true, "Ter": true, "Qua": false, "Qui": false, "Sex": false, "Sab": false, "Dom": false}
-{"Seg": [{"abre": "06:00(Ter)", "fecha": "22:00"}, {"abre": "06:00(Ter)", "fecha": "22:22"}], "Ter": [], "Qua": [], "Qui": [], "Sex": [], "Sab": [], "Dom": []}
-["Ter", "Seg"]
-[1, 1]
+false
+{"Seg": false, "Ter": false, "Qua": false, "Qui": false, "Sex": false, "Sab": false, "Dom": false}
+{"Seg": [], "Ter": [], "Qua": [], "Qui": [], "Sex": [], "Sab": [], "Dom": []}
 []
 []
 []
 []
 []
 []
-1
+[]
+[]
+0
 false
 false
 false
@@ -35,7 +35,7 @@ false
 []
 []
 []
-0.075
+0.0
 "medio"
 false
 27.0
